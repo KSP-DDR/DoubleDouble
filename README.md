@@ -1,6 +1,6 @@
 README
 
-1. Download the mods Kopernicus (1.3.0-6/1.3.1-2 RECOMMEND!!), ModularFlightIntegrator (Integrate to Kopernicus!) and ModuleManager (Integrate to Kopernicus!)
+1. Download the mods Kopernicus (1.3.0-6/1.3.1-X RECOMMEND!!), ModularFlightIntegrator (Integrate to Kopernicus!) and ModuleManager (Integrate to Kopernicus!)
 
 2. Put the mods files in the GameData folder
 

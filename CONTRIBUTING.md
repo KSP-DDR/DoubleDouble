@@ -1,1 +1,1 @@
-Help!
+To contribute to DoubleDouble, fork this repository, make the changes, update your repo, and then create a pull request. IF everyhing looks good, your pull request will be merged into this repository.

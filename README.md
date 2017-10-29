@@ -1,11 +1,11 @@
 README
 
-1. Download the mods Kopernicus (1.3.0-6/1.3.1-X RECOMMEND!!), ModularFlightIntegrator (Integrate to Kopernicus!) and ModuleManager (Integrate to Kopernicus!)
+1. Download the latest version of Kopernicus, which can be found here
+ 
+2. Put the contents of the mod zip in the GameData folder
 
-2. Put the mods files in the GameData folder
-
-3. Start the game (KSP)
+3. Start the game
 
 4. Have fun :)
 
-And if you have a suggestion or find bugs or errors, contact us (pikmin-123@hotmail.com/mrcarrotksp@gmail.com or make a private message in the forum of KSP or otherwise) Thank you very much!
+And if you have a suggestion or find bugs or errors, contact us ( pikmin-123@hotmail.com / mrcarrotksp@gmail.com or make a private message in the forum of KSP or otherwise) Thank you very much!

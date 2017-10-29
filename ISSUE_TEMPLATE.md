@@ -1,1 +1,11 @@
-https://forum.kerbalspaceprogram.com/index.php?/topic/163863-how-to-get-support/
+To report a bug, request a feuture, or offer help towards development, create an issue. You must follow the guidelines below.If you dont, you will be ignored.
+
+To report a bug: 
+1. Make sure it is a bug in DoubleDouble by running KSP with ONLY DoubleDouble and its dependencies. If the bug is still there, continue with these steps.
+2. Create an Issue. The title should be "Bug:" then a few words describing the bug. The issue MUST INCLUDE the following: 
+3. Your KSP version, and whether you are using 32 or 64 bit KSP.
+4. A brief and simple description of the problem
+5. Add steps to reproduce the bug. Make this as detailed as possible, and if you can, post an unedited video of you causing the bug.
+6. add a link to output_log.txt as a file. (no pastebin)
+
+tl;dr https://forum.kerbalspaceprogram.com/index.php?/topic/83212-how-to-get-support-read-first/

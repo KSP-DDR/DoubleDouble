@@ -8,6 +8,7 @@
 	Added SigmaBinary compatibility config
 +Enhancements
 	Some descriptions improved
+	Rename SamBelanger Inc to SamBelanger, Inc.
 +Bugfixes
 	Fixed texture glitches
 	Fixed bugs in configs- orbits misplaced and atmoshperes missing

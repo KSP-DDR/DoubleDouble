@@ -4,6 +4,7 @@
 	Added 3.75 M FTL Drive and fuel tanks
 	Added Resource: FTL Fuel Pellets
 	Added Agency: Black Monolith Scientists
+	Added new Flags
 +Compatibility
 	Added SigmaBinary compatibility config
 +Enhancements

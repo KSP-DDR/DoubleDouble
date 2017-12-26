@@ -8,4 +8,4 @@ README :
 
 4. Have fun :)
 
-And if you have a suggestion or find bugs or errors, contact us (mrcarrotksp@gmail.com or a private message in the KSP Forums, Discord, or otherwise) Thank you very much!
+And if you have a suggestion or find bugs or errors, contact us (mrcarrotksp@gmail.com, nubniceston@gmail.com, or a private message in the KSP Forums, Discord, or otherwise) Thank you very much!

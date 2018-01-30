@@ -1,0 +1,1 @@
+This is the place to upload textures for use by various projects in the mod.

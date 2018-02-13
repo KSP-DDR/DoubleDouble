@@ -1,0 +1,1 @@
+This folder stores textures for which definitive uses have been found.

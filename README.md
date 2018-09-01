@@ -6,4 +6,4 @@ README :
 
 3. Have fun :)
 
-If you have a suggestion or get any bugs, create an issue or a private message on Discord. Thank you very much and enjoy the mod!
+If you have a suggestion or get any bugs, create an issue or contact us on Discord at https://discord.gg/2r4jeMY. Thank you very much and enjoy the mod!

@@ -1,22 +1,25 @@
 {
     "spec_version" : 1,
-    "identifier"   : "TI-core",
+    "identifier"   : "TI-PumMaz",
     "$kref"        : "#/ckan/github/KSP-DDR/Terras-Ignotas",
 	"$vref" 	   : "#/ckan/ksp-avc",
     "license"      : "MIT",
-	"name"		   : "Terras Ignotas Core",
+	"name"		   : "Terras Ignotas - Pumilio-Mazenis System",
 	"version"	   : "0.1",
 	"author"	   : "DeltaDizzy, NickRoss120, Mrcarrot",
     "install": [
         {
-            "file"       : "GameData/TerrasIgnotas/Core",
-            "install_to" : "GameData/"
+            "file"       : "GameData/TerrasIgnotas/PumMaz",
+            "install_to" : "GameData/TerrasIgnotas"
         }
     ],	
 	"depends": [
 		{ "name": "ModuleManager"},
 		{ "name": "Kopernicus"}
 	],
+	"recommends": [
+		{"name": "SigmaBinary-core"}
+	]
 	"suggests": [
 		{ "name": "AlcubierreStandalone"},
 		{ "name": "TimeControl"}

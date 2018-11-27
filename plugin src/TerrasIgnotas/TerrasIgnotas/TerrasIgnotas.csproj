@@ -44,8 +44,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CompatibilityChecker.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TI_Experience.cs" />
+    <Compile Include="Utils.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

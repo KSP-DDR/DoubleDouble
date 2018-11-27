@@ -2,7 +2,7 @@
     "spec_version" : 1,
     "identifier"   : "TerrasIgnotas",
     "$kref"        : "#/ckan/github/KSP-DDR/Terras-Ignotas",
-	"$vref" 	   : "#/ckan/ksp-avc",
+    "$vref" 	   : "#/ckan/ksp-avc",
     "license"      : "MIT",
 	"name"		   : "Terras Ignotas",
 	"version"	   : "0.1.1",

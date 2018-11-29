@@ -1,0 +1,1 @@
+C:\Users\ejbraswell\Downloads\7z1805-extra\7za a -y -tzip "C:\Users\ejbraswell\Desktop\Distribution\TerrasIgnotas\TerrasIgnotas_FULL.zip" "C:\Users\ejbraswell\GitHub\Terras-Ignotas\Release\GameData" -mx5

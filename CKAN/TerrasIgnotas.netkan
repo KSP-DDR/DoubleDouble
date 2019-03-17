@@ -1,14 +1,14 @@
 {
-    "spec_version" : 1,
+    "spec_version" : 1.4,
     "identifier"   : "TerrasIgnotas",
+    "name"         : "Terras Ignotas Full"
     "$kref"        : "#/ckan/github/KSP-DDR/Terras-Ignotas",
     "$vref"        : "#/ckan/ksp-avc",
     "license"      : "MIT",
-    "name"         : "Terras Ignotas",
     "author"       : [ "DeltaDizzy", "NickRoss120", "Mrcarrot" ],
     "install": [
         {
-            "file"       : "GameData/TerrasIgnotas",
+            "find"       : "GameData/TerrasIgnotas",
             "install_to" : "GameData",
             "filter"     : [ "Flags" ]
         }
@@ -22,6 +22,7 @@
         { "name": "TimeControl" }
     ],
     "resources": {
-        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/179652-*"
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/179652-*",
+        "repository": "https://github.com/KSP-DDR/Terras-Ignotas"
     }
 }

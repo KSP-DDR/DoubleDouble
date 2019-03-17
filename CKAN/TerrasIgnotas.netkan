@@ -2,10 +2,11 @@
     "spec_version" : 1.4,
     "identifier"   : "TerrasIgnotas",
     "name"         : "Terras Ignotas Full"
-    "$kref"        : "#/ckan/github/KSP-DDR/Terras-Ignotas",
+    "$kref"        : "#/ckan/spacedock/GETID",
     "$vref"        : "#/ckan/ksp-avc",
-    "license"      : "MIT",
+    "x_netkan_license_ok": true,
     "author"       : [ "DeltaDizzy", "NickRoss120", "Mrcarrot" ],
+    "abstract"     : A WIP modular star pack for KSP 1.3.1 and newer. We put the H in Eta Carinae.
     "install": [
         {
             "find"       : "GameData/TerrasIgnotas",

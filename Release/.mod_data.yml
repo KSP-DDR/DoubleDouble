@@ -1,0 +1,19 @@
+# Example annotated build data file
+mod-name: ReStock
+package:
+  include-dependencies: false  # Include dependencies in the package
+  included-gamedata:
+    - TerrasIgnotas
+  included-support:  # Include these root-level files in packages
+    - readme.txt
+    # - changelog.txt
+    - license.txt
+deploy:
+  SpaceDock:
+    enabled: true  # activate/deactivate this deployment script
+    mod-id: add later  # The Spacedock mod ID for deployment
+  CurseForge:
+    enabled: false  # activate/deactivate this deployment script
+    mod-id: 000000  # The CurseForge mod ID for deployment
+  GitHub:
+    enabled: true  # activate/deactivate this deployment script

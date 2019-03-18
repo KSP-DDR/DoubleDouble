@@ -1,0 +1,21 @@
+# Example travis script for using these build and deploy scipts
+language: python
+python:
+  - 3.6
+install:
+  - pip install awscli boto3 requests
+branches:
+  only:
+    - prod # only run me on merges to prod
+script:
+  - git clone https://github.com/post-kerbin-mining-corporation/build-deploy.git  # clone this repo
+  - git checkout master # change this to run off a different CI repo branch
+  - python package.py  # Run the package script
+before_deploy:
+  - python stage.py  # Run the staging script
+deploy:
+  - provider: script
+    script: python build-deploy/src/deploy.py --f "Release/.mod_data.yml" # Deploy TI package to spacedock, github
+    skip_cleanup: true
+    on:
+      branch: prod
